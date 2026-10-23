@@ -141,10 +141,10 @@ Assessment history, skill evidence, completed tasks, and interview feedback help
 | 1 |  **Varun Juneja** | Team Lead & Full-Stack Developer | Project planning, system architecture, backend services, frontend-backend integration, and overall development |
 | 2 | **Harsh Arya** | Frontend Developer | React UI development, reusable components, and responsive layouts |
 | 3 | **Aayushi Chourasia** | Frontend Developer | Dashboard design, user experience flow, and interactive views |
-| 4 | **Prerna Nebhwani** | Frontend Developer | Component state management, user interface flows, and styling |
-| 5 | **Mohit Rajput** | Frontend Developer | Frontend integration, responsive design, and component optimization |
+| 4 | **Mohit Rajput** | Frontend Developer | Frontend integration, responsive design, and component optimization |
+| 5 | **Prerna Nebhwani** | Backend Developer | API Integration, ORM Handling, Authentication,  MySQL schema design |
 | 6 | **Aditya Singh** | Backend Developer | FastAPI endpoints, business logic, request validation, and API integration |
-| 7 | **Choudhary Devashish Kourav** | Backend & Database Engineer | MySQL schema design, migrations, and query optimization |
+| 7 | **Choudhary Devashish Kourav** | Backend & Database Engineer | Authentication, migrations, and query optimization |
 | 8 | **Haripriya Mahajan** | AI Integration Engineer | OpenRouter integration, prompt engineering, and response handling |
 | 9 | **Rishita Verma** | AI Integration & Assessment Developer | AI interview logic, skill-gap analysis, and personalized study-plan logic |
 | 10 | **Vanshika Gour** | AI Integration & Resume Developer | Resume processing, job-description analysis, and skill matching |
