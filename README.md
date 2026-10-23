@@ -31,9 +31,7 @@ PrepPilot AI analyzes a student's target role, preparation timeline, and assessm
 
 ## Architecture Diagram
 
-<img width="1536" height="1024" alt="CareerPilot AI System Architecture" src="https://github.com/user-attachments/assets/a2a7cf9c-9071-42fa-afee-ae01bf9c6703" />
-
----
+<img width="1536" height="1024" alt="WhatsApp Image 2026-10-23 at 11 20 34" src="https://github.com/user-attachments/assets/0d625629-ba57-42d5-8671-23198885e9eb" />
 
 ## How CareerPilot AI Works
 
