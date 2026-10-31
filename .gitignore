@@ -7,3 +7,6 @@ private_uploads/
 
 preppilot.db
 *.db
+
+**/node_modules/
+**/dist/
