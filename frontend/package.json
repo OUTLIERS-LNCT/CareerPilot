@@ -1,0 +1,9 @@
+{
+  "name": "preppilot-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": { "@vitejs/plugin-react": "^5.0.0", "vite": "^7.1.0", "react": "^19.3.0", "react-dom": "^19.3.0", "lucide-react": "^1.65.0" },
+  "devDependencies": {}
+}
